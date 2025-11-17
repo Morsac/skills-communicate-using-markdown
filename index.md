@@ -12,9 +12,10 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-- [ ] Recoger cosas nuevas Aliexpress
+- [x] Recoger cosas nuevas Aliexpress
 - [ ] Probar cosas nuevas Aliexpress
 - [ ] Pedir cita SEPE Prestación por Desempleo
+
 
 
 
