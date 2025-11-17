@@ -6,3 +6,7 @@
 # <h5> Un cepillo de dientes electrico de Xiaomi que carga por USB C</h5>
 # <h6> Y un pulsera de USB A a USB C que me queda estrecha, no la usaré </h6>
 
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+
